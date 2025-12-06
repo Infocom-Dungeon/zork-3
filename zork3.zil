@@ -19,15 +19,15 @@
 
 <FREQUENT-WORDS?>
 
-<INSERT-FILE "../zork-common/GSYNTAX" T>
-<INSERT-FILE "../zork-common/GMACROS" T>
-<INSERT-FILE "../zork-common/GCLOCK" T>
-<INSERT-FILE "../zork-common/GMAIN" T>
-<INSERT-FILE "../zork-common/GPARSER" T>
-<INSERT-FILE "3DUNGEON" T>
-<INSERT-FILE "../zork-common/GGLOBALS" T>
-<INSERT-FILE "../zork-common/GVERBS" T>
-<INSERT-FILE "3ACTIONS" T>
+<INSERT-FILE "../zork-common/gsyntax" T>
+<INSERT-FILE "../zork-common/gmacros" T>
+<INSERT-FILE "../zork-common/gclock" T>
+<INSERT-FILE "../zork-common/gmain" T>
+<INSERT-FILE "../zork-common/gparser" T>
+<INSERT-FILE "3dungeon" T>
+<INSERT-FILE "../zork-common/gglobals" T>
+<INSERT-FILE "../zork-common/gverbs" T>
+<INSERT-FILE "3actions" T>
 
 <PROPDEF SIZE 5>
 <PROPDEF CAPACITY 0>
